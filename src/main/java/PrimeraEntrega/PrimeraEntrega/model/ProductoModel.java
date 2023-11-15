@@ -15,7 +15,7 @@ public class ProductoModel {
     private String descripcion;
     private String codigo;
     private Integer stock;
-    private double precio;
+    private Double precio;
 
 }
 
